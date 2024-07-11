@@ -259,6 +259,9 @@ section{
      .scroll-down{
         display: none;
      }
+     .reference{
+        font-size: 10px;
+     }
 }
 
 @media (max-width: 990px){
@@ -292,6 +295,10 @@ section{
     .hero-img img{
         width: 100%;
         height: auto;
+    }
+
+    .reference {
+        text-align: center;
     }
 }
 
