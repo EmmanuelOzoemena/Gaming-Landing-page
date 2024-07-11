@@ -157,6 +157,21 @@ section{
     transform: translateY(-5px);
 }
 
+.reference{
+    position: absolute;
+    bottom: 6%;
+    right: 65%;
+}
+
+.reference a {
+    color: #fff;
+}
+
+.reference a:hover {
+    border-bottom: 2px solid #fff;
+}
+
+
 .scroll-down{
     position: absolute;
     bottom: 6%;
@@ -176,6 +191,8 @@ section{
 .scroll-down i:hover{
     transform: translateY(-5px);
 }
+
+
 
 
 
